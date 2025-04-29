@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Poudhyal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer+%F0%9F%A7%BD;Passionate+Learner+%F0%9F%93%9A;Problem+Solver+%E2%9A%99%EF%B8%8F;Always+Learning+New+Things+%F0%9F%93%96;Exploring+AI+%26+ML+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer+%F0%9F%A7%BD;Passionate+Learner+%F0%9F%93%9A;Problem+Solver+%E2%9A%99%EF%B8%8F;Exploring+AI%2C+ML+and+Tech+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,11 +11,11 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **AI-Based Deadlock Detection Systems**  
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**  
-- 👯 I’m looking to collaborate on **any cool CSE or AI projects**  
+- 🌱 I’m learning **Artificial Intelligence**, **Machine Learning**, and **System Design**  
+- 👯 I’m looking to collaborate on **AI, ML, and Software Development Projects**  
 - 📫 How to reach me: **poudhyalroshan@gmail.com**  
-- 🧠 I love exploring new technologies and solving real-world problems with AI!  
-- ⚡ Fun fact: I believe **learning never stops**, and I’m a huge fan of tech innovations 🚀
+- 🧠 I love building projects that **solve real-world problems**  
+- ⚡ Fun Fact: **I believe every challenge is an opportunity to innovate! 🚀**
 
 ---
 
@@ -23,14 +23,14 @@
 
 | Category | Technologies |
 |:--------|:-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **AI/ML** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
-| **Data Handling** | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **AI/ML Frameworks** | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **Data Handling** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Version Control & IDEs** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshan-poudhyal&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -46,7 +46,15 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
+
+### 🧠 AI-Deadlock Detection System
+> **Predict, Detect, and Resolve Deadlocks in Real-Time using Machine Learning & Graph Theory**
+
+- Developed an AI-driven system that predicts deadlocks in concurrent environments.  
+- Built using **Python**, **NetworkX**, **Scikit-learn**.  
+- Utilizes **Resource Allocation Graphs (RAG)** and **Cycle Detection Algorithms**.  
+- Future-ready with Machine Learning models to forecast deadlock-prone states.
 
 <p align="center">
   <a href="https://github.com/roshan-poudhyal/AI-Deadlock">
@@ -56,7 +64,17 @@
 
 ---
 
-## 🧩 Let's Connect
+<!-- ADD More Projects Section Here Later -->
+
+## 🎯 Future Projects
+
+- 📡 **Real-Time System Monitoring Dashboard**  
+- 🛡️ **AI-Driven Cybersecurity Detection Models**  
+- 🧬 **Health Diagnostic AI using Medical Imaging**  
+
+---
+
+## 🧩 Let's Connect and Collaborate!
 
 <p align="center">
   <a href="mailto:poudhyalroshan@gmail.com">
@@ -70,5 +88,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=120&section=footer"/>
 </p>
